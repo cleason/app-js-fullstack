@@ -6,4 +6,3 @@ Les commandes utilisées :
         * dotenv (pour les variables d'environment)
         * mongoose (pour la base de données mongoDB)
         * nodemon (pour les actualisations en live)
-    - 
